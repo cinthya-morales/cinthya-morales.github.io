@@ -6,9 +6,8 @@
         width:100%;
     }
     h1 {
-        color: white;
-        background-color:cadetblue ;
-        text-align:center;
+        color: cadetblue;
+        text-align: auto;
         width:100%;
     }
     .inicio {
@@ -19,17 +18,23 @@
         transition: 0.5s;
         font-style: italic;
         text-align: center;
-        vertical-align: top;    
+        vertical-align: top;
+    }
+    #eu {
+      
+        width: 45%;
+        margin:auto;
     }
     #foto {
         border-radius: 0% 17% 62% 0%;
     }
     h4 {
         font-weight: bold;
-        color: rgb(85, 85, 85);
+        color: cadetblue;
     }
     ul {
         list-style-type: square;
+        color: cadetblue;
     }
 
     .icon{
